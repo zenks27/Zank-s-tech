@@ -133,7 +133,7 @@ export const Dashboard = ({
   return (
     <div className="dashboard">
       <div className="dashboard-header">
-        <h1>ChimeraTool Dashboard</h1>
+        <h1>Black Coyote Dashboard</h1>
         <p>Professional Mobile Phone Servicing Solution</p>
       </div>
 
