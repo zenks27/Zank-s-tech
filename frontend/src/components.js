@@ -994,7 +994,7 @@ export const Settings = () => {
     <div className="settings">
       <div className="settings-header">
         <h1>Settings</h1>
-        <p>Configure ChimeraTool preferences</p>
+        <p>Configure Black Coyote preferences</p>
       </div>
 
       <div className="settings-content">
