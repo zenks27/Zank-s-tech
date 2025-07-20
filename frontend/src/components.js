@@ -1060,7 +1060,7 @@ export const Settings = () => {
         </div>
 
         <div className="settings-section">
-          <h3>About ChimeraTool</h3>
+          <h3>About Black Coyote</h3>
           <div className="about-info">
             <p><strong>Version:</strong> 43.66.1639</p>
             <p><strong>Release Date:</strong> June 20, 2025</p>
