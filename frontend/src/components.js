@@ -14,8 +14,8 @@ export const Header = ({ notifications, setNotifications }) => {
     <header className="header">
       <div className="header-left">
         <div className="logo">
-          <span className="logo-icon">🔧</span>
-          <span className="logo-text">ChimeraTool</span>
+          <span className="logo-icon">🐺</span>
+          <span className="logo-text">Black Coyote</span>
         </div>
         <span className="version">v43.66.1639</span>
       </div>
