@@ -19,7 +19,7 @@ function App() {
   const [connectedDevice, setConnectedDevice] = useState(null);
   const [logs, setLogs] = useState([]);
   const [notifications, setNotifications] = useState([
-    { id: 1, type: 'info', message: 'ChimeraTool started successfully', time: new Date() },
+    { id: 1, type: 'info', message: 'Black Coyote started successfully', time: new Date() },
     { id: 2, type: 'warning', message: 'No device connected', time: new Date() }
   ]);
 
